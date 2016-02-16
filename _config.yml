@@ -1,0 +1,28 @@
+name: Cora Coronel Photography
+favicon: null
+layout_spectrum: 0.2504322479944676
+typography_spectrum: 0.2052711104042828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8082930985838175
+  lightness: 0.9143523967359215
+  saturation: 0.9082502801902592
+  rhythmicContrast: 0.6871059634722769
+purpose: []
